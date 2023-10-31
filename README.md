@@ -5,6 +5,7 @@ PowerBI-Sales-Dashboard
 # Project Description:
 This project was developed as individual assignment at Brainster Data Science Academy in the module: Power BI. 
 This project was developed as individual assignment at Brainster Data Science Academy. The assignment was to create Power BI Dashboard for Sales for one grocery chain.
+
 ---
 #
 # Table of Contents:
