@@ -8,7 +8,7 @@ This project was developed as individual assignment at Brainster Data Science Ac
 
 ---
 #
-# Table of Contents:
+# Assignment steps:
 
   1. Connecting and Shaping the Data 
   2. Creating the Data Model
